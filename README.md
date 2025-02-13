@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**MedMoncef/MedMoncef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="[https://your-gif-or-banner-url.com/welcome.gif](https://www.pngplay.com/wp-content/uploads/6/Welcome-Banner-Transparent-PNG.png)" width="600"/>
+</p>
 
-Here are some ideas to get you started:
+## 👋 Hello, I'm Moncef Zmander!
+I'm a **Full Stack Web Developer** from Tunisia 🇹🇳, passionate about building web apps with **Next.js, Django, Strapi, and Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Frontend:** React, Next.js, Tailwind CSS, Zustand  
+🔹 **Backend:** Django, Node.js, Strapi, REST & GraphQL APIs  
+🔹 **Database:** PostgreSQL, MongoDB  
+🔹 **Tools & DevOps:** Docker, AWS, GitHub Actions  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7A41D&lines=Full+Stack+Web+Developer;Next.js+%7C+Django+%7C+Node.js;Strapi+%7C+GraphQL+%7C+PostgreSQL)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoncefZmander&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoncefZmander&theme=radical" width="48%" alt="GitHub Streak"/>
+</p>
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,nodejs,express,django,postgres,mongodb,docker,git,github" />
+</p>
+![Snake animation](https://github.com/MoncefZmander/MoncefZmander/blob/output/github-contribution-grid-snake.svg)
