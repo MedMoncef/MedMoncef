@@ -20,4 +20,4 @@ I'm a **Full Stack Web Developer** from Tunisia 🇹🇳, passionate about build
 </p>
 
 ### 🐍 Watch my contributions turn into a snake!
-![Snake animation](https://github.com/MedMoncef/MedMoncef/blob/main/.github/workflows/snake.yml)
+![Snake animation (Dark)]([https://github.com/MedMoncef/MedMoncef/blob/main/.github/workflows/snake.yml](https://raw.githubusercontent.com/MedMoncef/MedMoncef/main/dist/github-contribution-grid-snake.svg))
