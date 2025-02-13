@@ -11,13 +11,12 @@ I'm a **Full Stack Web Developer** from Tunisia 🇹🇳, passionate about build
 🔹 **Backend:** Django, Node.js, Strapi, REST & GraphQL APIs  
 🔹 **Database:** PostgreSQL, MongoDB  
 🔹 **Tools & DevOps:** Docker, AWS, GitHub Actions  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7A41D&lines=Full+Stack+Web+Developer;Next.js+%7C+Django+%7C+Node.js;Strapi+%7C+GraphQL+%7C+PostgreSQL)](https://git.io/typing-svg)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoncefZmander&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoncefZmander&theme=radical" width="48%" alt="GitHub Streak"/>
-</p>
+
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,nodejs,express,django,postgres,mongodb,docker,git,github" />
 </p>
+
 ![Snake animation](https://github.com/MoncefZmander/MoncefZmander/blob/output/github-contribution-grid-snake.svg)
